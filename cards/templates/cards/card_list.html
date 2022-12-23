@@ -8,10 +8,7 @@ All Cards
 {% ifchanged %}
 <h3>🗃 {{ card.box | ordinal }} Box</h3>
 {% endifchanged %}
-<article>
-{{ card }}
-</article>
+{% include "cards/card.html" %}
 {% endfor %}
-
 {% endblock content %}
 
