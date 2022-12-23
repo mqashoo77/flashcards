@@ -8,4 +8,10 @@ urlpatterns = [
         views.CardListView.as_view(),
         name="card-list"
     ),
+    path(
+        "new",
+        views.CardCreateView.as_view(),
+        name="card-create"
+    ),
+
 ]
