@@ -1,4 +1,4 @@
 venv/
 cards/__pycache__/
 flashcards/__pycache__/
-flashcards/migrations/__pycache__/
+cards/migrations/__pycache__/
