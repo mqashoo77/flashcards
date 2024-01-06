@@ -1,7 +1,5 @@
-# Watheroo
-
 ## Overview
-A great tool implemented using Django,
+Flashcards is great tool implemented using Django,
 with it you can test your memory by going
 through the flashcards. The more often
 you show a card to yourself, the better
