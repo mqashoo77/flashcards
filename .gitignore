@@ -1,4 +1,5 @@
-venv/
 cards/__pycache__/
 flashcards/__pycache__/
 cards/migrations/__pycache__/
+cards/templatetags/__pycache__
+django/
